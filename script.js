@@ -39,4 +39,4 @@ function applyPreferences()
     document.body.style.background = localStorage.getItem("background");
     document.body.style.color = localStorage.getItem("foreground");
     foreground.value = localStorage.getItem("foreground");
-}
+ }
